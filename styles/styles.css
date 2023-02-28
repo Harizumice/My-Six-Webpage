@@ -1,0 +1,74 @@
+/* Configurar el estilo del encabezado */
+h1{
+    color: darkred;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 69px;
+
+    -webkit-text-stroke: 0.2px rgb(150, 150, 150);
+}
+
+/* Configurar el estilo de la lista. */
+h2{
+    color: rgb(139, 44, 0);
+    /* text-align: left; */
+    font-family: 'Righteous', cursive;
+    font-size: 27px;
+
+    -webkit-text-stroke: 0.2px rgb(150, 150, 150);
+}
+
+td{
+    text-align: center;
+}
+
+/* Configurar el estilo de los números de la lista */
+li{
+    color: rgb(139, 44, 0);
+    text-align: left;
+    font-family: 'Righteous', cursive;
+    font-size: 27px;  
+    font-style: italic;  
+
+    -webkit-text-stroke: 0.2px rgb(150, 150, 150);
+}
+
+/* Configurar el estilo de los números de la lista */
+p{
+    color: rgb(139, 0, 0);
+    text-align: left;
+    font-family: 'Righteous', cursive;
+    font-size: 32px;  
+    font-style: italic;  
+
+    -webkit-text-stroke: 0.3px rgb(150, 150, 150);
+}
+
+/* Configurar el estilo del Link */
+a{
+    color: rgb(238, 147, 11);
+    font-display: center;
+    font-family: 'Righteous', cursive;
+    font-size: 64px;  
+    font-style: italic;  
+}
+
+/* Configurar el estilo de la imagen */
+img{
+    border-radius: 27px;
+    border-image: fill;
+    border-color: brown;
+    outline-style: groove;
+    outline-width: 16px;
+    outline-color: brown;
+}
+
+/* Configurar los estilos de la tabla */
+table{
+    outline-width: 7px;
+}
+
+/* Configurar el cuerpo de la página */
+body{
+    background-color: rgb(48, 41, 45);
+}
